@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing it child2!
+=======
+Testing it child1!aaaa
+>>>>>>> 4edcddb93f4ef639a93053288ec085ca68aba8f4
